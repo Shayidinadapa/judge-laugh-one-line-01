@@ -1,0 +1,1 @@
+{"description":"One funny line a shadow gives when it quits its job — make.fun bounty entry","engines":{"node":">=22.18"},"license":"MIT","name":"judge-laugh-one-line-01","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
